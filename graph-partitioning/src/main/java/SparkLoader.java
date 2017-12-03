@@ -7,7 +7,7 @@ import org.apache.spark.api.java.JavaSparkContext;
 
 public class SparkLoader {
     public static void main(String[] args) {
-        String graphFile = SparkLoader.class.getResource("web-Google.txt").getPath();
+        String graphFile = SparkLoader.class.getResource("/web-Google.txt").getPath();
         SparkLoader.run(graphFile);
 
     }

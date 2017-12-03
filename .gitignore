@@ -16,4 +16,4 @@ target/
 .settings/
 
 # Data
-src/resources/web-Google.txt
+*.txt
