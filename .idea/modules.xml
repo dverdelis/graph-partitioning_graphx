@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/graphPartitioning.iml" filepath="$PROJECT_DIR$/graphPartitioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scalaSpark/scalaSpark.iml" filepath="$PROJECT_DIR$/scalaSpark/scalaSpark.iml" />
     </modules>
   </component>
 </project>
